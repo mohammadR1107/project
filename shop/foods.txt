@@ -1,0 +1,4 @@
+model,price,inventory
+burger,20000,20
+bandri,17000,12
+pizza,30000,10
